@@ -3,3 +3,4 @@ Allow: /
 
 Sitemap: https://richoh86.github.io/sitemap.xml
 Sitemap: https://richoh86.github.io/lullog-site/sitemap.xml
+Sitemap: https://richoh86.github.io/workenglish-site/sitemap.xml
